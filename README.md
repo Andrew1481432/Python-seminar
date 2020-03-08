@@ -10,3 +10,6 @@
 * bin UCanAccess(UCanAccess-5.0.0-bin), в самом файле run пропишите путь к файлу ucanload.jar
 * В самом run.sh вы должны прописать свои пути к accdb и log файлу
 * Затем для запуска программы выдайте права на запуск файлу run.sh(в linux/macos sudo chmod 777 run.sh)
+
+Если ваш access db файл не работает с программной воспользуйтеюсь моим)
+url для скачивания: https://drive.google.com/open?id=1Xj41yHV1s-BD-ajeS0gj-V7HkIUgxiaT 
